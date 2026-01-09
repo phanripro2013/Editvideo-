@@ -1,0 +1,7 @@
+{
+  "name": "VividEdit - Pro Video Creator",
+  "description": "A high-performance web-based video editor to combine images and MP3 audio into professional videos. Features real-time preview, transition effects, and high-quality exporting using Browser Media APIs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
